@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders Footer unchanged 1`] = `
+<div>
+  <p
+    class="mt-20 text-center"
+    data-testid="footer"
+  >
+    <a
+      class="text-blue-500 hover:underline"
+      target="_blank"
+    >
+       
+      .
+    </a>
+  </p>
+</div>
+`;

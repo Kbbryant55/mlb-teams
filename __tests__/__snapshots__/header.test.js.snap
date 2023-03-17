@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders Header unchanged 1`] = `
+<div>
+  <a
+    class="flex pt-3 pb-5 items-center cursor-pointer hover:scale-105 transition ease-in-out"
+    href="/"
+  >
+    <img
+      alt=""
+      class="mr-2 h-[40px] w-[40px] relative top-[2px]"
+      src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&w=64&h=64&scale=crop&cquality=40&location=origin"
+    />
+    <h1
+      class="text-xl font-extrabold"
+      data-testid="header"
+    >
+      Major League Baseball
+    </h1>
+  </a>
+</div>
+`;

@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project uses React, NextJS, and TypeScript to call a MLB api in order to display the various teams, divisions, and rosters.
+
+You can view a team's roster by clicking on the team's table cell.  Clicking on the MLB header will reroute back to the home page.
 
 ## Getting Started
 
